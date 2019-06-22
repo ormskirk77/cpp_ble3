@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+environment/project/0.774646879/BATCH_BUILD/delimiter=\:
+environment/project/0.774646879/BATCH_BUILD/operation=append
+environment/project/0.774646879/BATCH_BUILD/value=1
+environment/project/0.774646879/IDF_PATH/delimiter=\:
+environment/project/0.774646879/IDF_PATH/operation=append
+environment/project/0.774646879/IDF_PATH/value=/Users/timfernandez/esp/esp-idf
+environment/project/0.774646879/PATH/delimiter=\:
+environment/project/0.774646879/PATH/operation=append
+environment/project/0.774646879/PATH/value=/bin\:/usr/bin\:/usr/sbin\:/sbin\:/Users/timfernandez/esp/xtensa-esp32-elf/bin
+environment/project/0.774646879/PYTHONPATH/delimiter=\:
+environment/project/0.774646879/PYTHONPATH/operation=append
+environment/project/0.774646879/PYTHONPATH/value=/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages
+environment/project/0.774646879/append=true
+environment/project/0.774646879/appendContributed=true
